@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">עצות לחתונה:)</string>
+    <string name="countdown">עוד</string>
+    <string name="countdownleft">החתונה!!!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+
+</resources>
